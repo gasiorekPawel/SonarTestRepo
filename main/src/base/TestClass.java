@@ -9,6 +9,9 @@ public class TestClass {
         var x3=1;
         var x31=1;
         var x31a=1;
+        var x311a=1;
+        var x31a2=1;
+        var x31a3=1;
         System.out.println("something");
     }
 }
