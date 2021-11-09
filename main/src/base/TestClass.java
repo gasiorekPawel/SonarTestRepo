@@ -8,6 +8,7 @@ public class TestClass {
         var x2=1;
         var x3=1;
         var x31=1;
+        var x31a=1;
         System.out.println("something");
     }
 }
